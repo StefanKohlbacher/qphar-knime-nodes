@@ -1,0 +1,1 @@
+{"randomSeed":15485863,"trainingFeatureDimensions":11,"metricType":"R_SQUARED","maxDepthRf":4,"distanceType":"INVERSE","nrSamples":36,"trainingSize":1,"maxDistance":1000,"fuzzy":true,"mergingThreshold":5,"nTreesRf":30,"activityColumn":""}
